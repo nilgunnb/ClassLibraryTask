@@ -1,0 +1,12 @@
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\bin\Debug\net6.0\BookLibrary.core.deps.json
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\bin\Debug\net6.0\BookLibrary.core.dll
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\bin\Debug\net6.0\BookLibrary.core.pdb
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.csproj.AssemblyReference.cache
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.AssemblyInfoInputs.cache
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.AssemblyInfo.cs
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.csproj.CoreCompileInputs.cache
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.dll
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\refint\BookLibrary.core.dll
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\BookLibrary.core.pdb
+C:\Users\babay\source\repos\BookApp.app\BookLibrary.core\obj\Debug\net6.0\ref\BookLibrary.core.dll

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookApp.app\\BookApp.app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookApp.app\\BookApp.app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookApp.app\\BookApp.app.csproj",
+        "projectName": "BookApp.app",
+        "projectPath": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookApp.app\\BookApp.app.csproj",
+        "packagesPath": "C:\\Users\\babay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookApp.app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\babay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\BookLibrary.core.csproj": {
+                "projectPath": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\BookLibrary.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\BookLibrary.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\BookLibrary.core.csproj",
+        "projectName": "BookLibrary.core",
+        "projectPath": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\BookLibrary.core.csproj",
+        "packagesPath": "C:\\Users\\babay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\babay\\source\\repos\\BookApp.app\\BookLibrary.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\babay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
