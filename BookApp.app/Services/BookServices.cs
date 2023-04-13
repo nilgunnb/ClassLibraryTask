@@ -46,7 +46,10 @@ namespace BookApp.app.Services
             Console.WriteLine("Please, add Price");
 
            
-            NewBook.Price = Console.ReadLine();
+       
+            string numberstring = Console.ReadLine();
+
+            NewBook.Price = double.Parse(numberstring);
 
             Array.Resize(ref Books, Books.Length + 1);
 
