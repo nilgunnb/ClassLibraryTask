@@ -45,8 +45,8 @@ namespace BookApp.app.Services
 
             Console.WriteLine("Please, add Price");
 
-            NewBook.Price = Convert.ToDouble(Console.ReadLine());
-
+           
+            NewBook.Price = Console.ReadLine();
 
             Array.Resize(ref Books, Books.Length + 1);
 
